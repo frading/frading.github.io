@@ -17142,31 +17142,31 @@ th.hide-for-touch {
   content: "\f21a";
 }
 
-/* line 12, /home/frading/work/web/guillaumefradin/dev/guillaumefradin/app/assets/stylesheets/main.sass */
+/* line 12, /home/frading/work/web/projects/guillaumefradin/app/assets/stylesheets/main.sass */
 #mainmenu_container {
   position: fixed;
 }
 
-/* line 15, /home/frading/work/web/guillaumefradin/dev/guillaumefradin/app/assets/stylesheets/main.sass */
+/* line 15, /home/frading/work/web/projects/guillaumefradin/app/assets/stylesheets/main.sass */
 .mainmenu_entry {
   margin-bottom: 120px;
 }
 
-/* line 19, /home/frading/work/web/guillaumefradin/dev/guillaumefradin/app/assets/stylesheets/main.sass */
+/* line 19, /home/frading/work/web/projects/guillaumefradin/app/assets/stylesheets/main.sass */
 .contact_details {
   margin-bottom: 60px;
 }
 
-/* line 23, /home/frading/work/web/guillaumefradin/dev/guillaumefradin/app/assets/stylesheets/main.sass */
+/* line 23, /home/frading/work/web/projects/guillaumefradin/app/assets/stylesheets/main.sass */
 .img-link {
   display: inline-block;
   margin-bottom: 10px;
 }
-/* line 27, /home/frading/work/web/guillaumefradin/dev/guillaumefradin/app/assets/stylesheets/main.sass */
+/* line 27, /home/frading/work/web/projects/guillaumefradin/app/assets/stylesheets/main.sass */
 .img-link img {
   border-radius: 6px;
 }
-/* line 29, /home/frading/work/web/guillaumefradin/dev/guillaumefradin/app/assets/stylesheets/main.sass */
+/* line 29, /home/frading/work/web/projects/guillaumefradin/app/assets/stylesheets/main.sass */
 .img-link:hover {
   opacity: 0.8;
 }
